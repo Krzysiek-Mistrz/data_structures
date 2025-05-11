@@ -52,10 +52,12 @@ All implementations are pure Python, requiring no external dependencies.
 ```
 /
 ├── README.md
-├── kopiec.py                  # PriorityQueue + PQElem definitions
-├── sortowanie_kopcowanie.py   # Heap build + heap sort
-├── sortowanie_shella.py       # Shell sort
-└── [others algorithms & add. files]
+├── LICENSE
+└── src
+    ├── kopiec.py                  # PriorityQueue + PQElem definitions
+    ├── sortowanie_kopcowanie.py   # Heap build + heap sort
+    ├── sortowanie_shella.py       # Shell sort
+    └── [others algorithms & add. files]
 ```
 
 ---
